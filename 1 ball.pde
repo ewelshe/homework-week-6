@@ -1,6 +1,6 @@
 
-
-//pieces:
+//Things we need for the code to work
+//piece
 //canvas
 //boundaries
 //motion of the ball: speed+direction variables xSpeed and ySpeed
